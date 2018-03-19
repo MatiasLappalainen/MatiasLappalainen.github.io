@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react-dom": "^16.2.0",
+    "tslint-config-airbnb": "^5.8.0"
   },
   "scripts": {
     "start": "react-scripts-ts start",
